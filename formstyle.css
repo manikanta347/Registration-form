@@ -1,0 +1,33 @@
+h3
+{
+	font-family: cursive;
+}
+.a
+{
+color: white;
+}
+.heading
+{
+text-align: right;
+}
+h4{
+text-align: center;
+color: white;
+}
+img
+{
+	height: 140px;
+	object-fit: cover;
+}
+.border
+{
+	display: inline-block;
+	width: auto;
+	height: auto;
+    margin : 50px;
+}
+.border1
+{
+	width: auto;
+	height: auto;
+}
